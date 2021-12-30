@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thayrone
 - 👀 I’m interested in learn new technologies 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 - 📫 How to reach me on e-mail: thayroneliaodasilva@gmail.com
 
 <!---
